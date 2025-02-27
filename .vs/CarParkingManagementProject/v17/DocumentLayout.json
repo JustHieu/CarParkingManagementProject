@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|e:\\hcmute\\2024-2025\\hki\\oop\\project\\car_parking_management_system\\carparkingmanagementproject\\carparkingmanagementproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\frmqlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\frmqlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\frmhistorycus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\frmhistorycus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\carparkingmanagementproject\\dangkiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1FC26E-09E6-4616-8499-96C92E92A4D7}|CarParkingManagementProject\\CarParkingManagementProject.csproj|solutionrelative:carparkingmanagementproject\\dangkiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\App.config",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\App.config",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\App.config",
+              "RelativeToolTip": "CarParkingManagementProject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-27T06:26:49.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmReport.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmReport.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\FrmReport.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmReport.cs [Design]",
+              "RelativeToolTip": "CarParkingManagementProject\\FrmReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:33:53.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmReport.cs",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmReport.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\FrmReport.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmReport.cs",
+              "RelativeToolTip": "CarParkingManagementProject\\FrmReport.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAD4v2EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:34:06.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmQLKH.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmQLKH.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\FrmQLKH.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmQLKH.cs [Design]",
+              "RelativeToolTip": "CarParkingManagementProject\\FrmQLKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:33:50.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmNhanVien.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\FrmNhanVien.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmNhanVien.cs [Design]",
+              "RelativeToolTip": "CarParkingManagementProject\\FrmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:33:48.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmKhachhang.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmKhachhang.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\FrmKhachhang.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmKhachhang.cs [Design]",
+              "RelativeToolTip": "CarParkingManagementProject\\FrmKhachhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:33:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHistoryCus.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmHistoryCus.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\FrmHistoryCus.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FrmHistoryCus.cs [Design]",
+              "RelativeToolTip": "CarParkingManagementProject\\FrmHistoryCus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:33:43.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\FormCustomer.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\FormCustomer.cs [Design]",
+              "RelativeToolTip": "CarParkingManagementProject\\FormCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:33:42.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\Customer.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\Customer.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\Customer.cs",
+              "RelativeToolTip": "CarParkingManagementProject\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:53:35.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\ClassDiagram1.cd",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\ClassDiagram1.cd",
+              "RelativeToolTip": "CarParkingManagementProject\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-05T17:53:27.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangKiForm.cs [Design]",
+              "DocumentMoniker": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\DangKiForm.cs",
+              "RelativeDocumentMoniker": "CarParkingManagementProject\\DangKiForm.cs",
+              "ToolTip": "E:\\HCMUTE\\2024-2025\\HKI\\OOP\\ProJect\\Car_Parking_Management_System\\CarParkingManagementProject\\CarParkingManagementProject\\DangKiForm.cs [Design]",
+              "RelativeToolTip": "CarParkingManagementProject\\DangKiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:17:08.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

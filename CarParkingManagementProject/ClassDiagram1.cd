@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarParkingManagementProject.Person" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAABAAAAAAAAQAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.Infor" Collapsed="true">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAhAAEAAQAAAgAAAIIAAAiAAAAIAAAAgA=</HashCode>
+      <FileName>Infor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.Attendant">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABCgAAAAgABBQACCQCAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attendant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.Manager" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAFCgACAAgAAAQAACBAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.Customer" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEhAAAAAAAAAAYEEAAOQACCSAABgAAAAQAAAAAAIQA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.ParkingSpace" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAABAAACCQAAAAgAAAAAIAAAAABA=</HashCode>
+      <FileName>ParkingSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.Vehicles" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAEAAAAAAAAAAABAACAAQAAggABAAI=</HashCode>
+      <FileName>Vehicles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.Moto" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarParkingManagementProject.Car" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Thienhoang" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-T2GDPKG;Initial Catalog=Thienhoang;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" SettingsObjectName="CarParkingManagementProject.Properties.Settings" SettingsPropertyName="ThienhoangConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.dulieuNV" Member="dulieuNVs">
+    <Type Name="dulieuNV">
+      <Column Name="idNV" Type="System.String" DbType="NChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nameNV" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="genderNV" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="phoneNV" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="birthdayNV" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="hiredayNV" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="addressNV" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="salaryNV" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.dataKH" Member="dataKHs">
+    <Type Name="dataKH">
+      <Column Name="idKH" Type="System.String" DbType="NChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nameKH" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="phoneKH" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="addressKH" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="genderKH" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="birthdayKH" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="timeInKH" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="timeOutKH" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="brandKH" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="typeKH" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="colorKH" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="numberPlateKH" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="imageKH" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX) NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CarSpaceData" Member="CarSpaceDatas">
+    <Type Name="CarSpaceData">
+      <Column Name="location" Type="System.String" DbType="NChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idCustomer" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="numberPlate" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="brand" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="image" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX) NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.dulieuMotoSpace" Member="dulieuMotoSpaces">
+    <Type Name="dulieuMotoSpace">
+      <Column Name="location" Type="System.String" DbType="NChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idCustomer" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="numberPlate" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="brand" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="image" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX) NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.feedbackData" Member="feedbackDatas">
+    <Type Name="feedbackData">
+      <Column Name="FeedBack" Type="System.String" DbType="NChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.dataHistory" Member="dataHistories">
+    <Type Name="dataHistory">
+      <Column Name="idKH" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="nameKH" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="typeKH" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="numberPlate" Type="System.String" DbType="NChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="timeInKH" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="timeOutKH" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="priceKH" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.dataHisKH" Member="dataHisKHs">
+    <Type Name="dataHisKH">
+      <Column Name="idKH" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="nameKH" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="typeKH" Type="System.String" DbType="NChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="numberPlate" Type="System.String" DbType="NChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="timeIn" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="timeOut" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="priceKH" Type="System.Decimal" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

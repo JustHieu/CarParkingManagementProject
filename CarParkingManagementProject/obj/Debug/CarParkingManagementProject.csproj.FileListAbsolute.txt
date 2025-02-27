@@ -1,0 +1,333 @@
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmDoxe.resources
+C:\Users\ASUS\OneDrive\Tài liệu\DOANOOP_GR\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanvien.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmDoxe.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmDoxe.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.AttendantForm.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmQLKH.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.RetrieveCar.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmSpace.resources
+C:\Users\ASUS\OneDrive\Tài liệu\PHAMTHIENHOANG_NGUYENVIETHIEU\lan1\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FormCustomer.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.AttendantForm.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FormCustomer.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmQLKH.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmSpace.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.RetrieveCar.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.SuggestedBindingRedirects.cache
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.config
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.licenses
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.Licensing.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmReport.resources
+D:\DoAnOOP\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmHistoryCus.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.SuggestedBindingRedirects.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.AttendantForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FormCustomer.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmHistoryCus.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmQLKH.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmReport.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmSpace.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.RetrieveCar.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.licenses
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\CarParkingManagementProject (2)\CarParkingManagementProject\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.Licensing.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.SuggestedBindingRedirects.cache
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.config
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.AttendantForm.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FormCustomer.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmHistoryCus.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmQLKH.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmReport.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmSpace.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.RetrieveCar.resources
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.licenses
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+D:\DoAnOOP\lastdance\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.Licensing.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.SuggestedBindingRedirects.cache
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.config
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.AttendantForm.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FormCustomer.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmHistoryCus.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmQLKH.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmReport.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmSpace.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.RetrieveCar.resources
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.licenses
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+D:\OOPCUOIKY\BAIDOXE (1)\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.SuggestedBindingRedirects.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.AttendantForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FormCustomer.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmHistoryCus.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmQLKH.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmReport.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmSpace.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.RetrieveCar.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.licenses
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\TMP\BAIDOXE\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\CarParkingManagementProject.pdb
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.dll
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\bin\Debug\Newtonsoft.Json.xml
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.AssemblyReference.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.SuggestedBindingRedirects.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.config
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.AttendantForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.DangKiForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FormCustomer.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmHistoryCus.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmNhanVien.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmKhachhang.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmQLKH.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmReport.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.FrmSpace.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Login.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.ManagerForm.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.Properties.Resources.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.RetrieveCar.resources
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.GenerateResource.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe.licenses
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.csproj.CoreCompileInputs.cache
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParki.CA4F3ACD.Up2Date
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.exe
+E:\HCMUTE\2024-2025\HKI\OOP\ProJect\BAIDOXE\CarParkingManagementProject\CarParkingManagementProject\obj\Debug\CarParkingManagementProject.pdb
